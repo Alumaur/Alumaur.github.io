@@ -3,5 +3,5 @@ body {
   background: red;
 }
 .jumbotron {
-size: 100%;
+min-height: 300px;
 }
