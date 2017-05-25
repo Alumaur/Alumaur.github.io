@@ -3,5 +3,6 @@ body {
   background: red;
 }
 .jumbotron {
-    padding: 5em inherit;
+    height: 100vh;
+
 }
