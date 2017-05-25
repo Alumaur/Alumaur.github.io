@@ -1,7 +1,7 @@
 
 body {
-
-  size: 100vh;
   background: red;
-
+}
+.jumbotron {
+size: 100vh;
 }
